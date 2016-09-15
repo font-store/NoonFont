@@ -7,24 +7,24 @@
     
 body{
     margin: 0;
-    font-size: 30px;
+    font-size: 3vw;
     direction: rtl;
     text-align: center;
     font-family: noon;
     background: #444;
     display: flex;
-    padding: 0 20%;
+    padding: 0 15vw;
     min-height: 100vh;
     flex-direction:column;
     overflow: auto;
 }
 
 section{
-     width:70%;
+    
      margin:20px auto;
     border:35px solid RGBA(147, 147, 147, 0.4);
     border-radius:15px;
-    padding:50px 30px;
+    padding:50px 5vw;
     background:#fff;
     flex:1 1 auto;
     box-shadow:0px 0px 10px #444 inset;
@@ -40,7 +40,7 @@ section{
 }
 
 .basmala{
-    font-size:60px;
+    font-size:5vw;
     //line-height:1;
     padding:0px;
     margin:0px;
