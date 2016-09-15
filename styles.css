@@ -7,13 +7,13 @@
     
 body{
     margin: 0;
-    font-size: 3vw;
+    font-size: 2.5vw;
     direction: rtl;
     text-align: center;
     font-family: noon;
     background: #444;
     display: flex;
-    padding: 0 15vw;
+    padding: 20px 15vw;
     min-height: 100vh;
     flex-direction:column;
     overflow: auto;
@@ -21,7 +21,7 @@ body{
 
 section{
     
-     margin:20px auto;
+     
     border:35px solid RGBA(147, 147, 147, 0.4);
     border-radius:15px;
     padding:50px 5vw;
