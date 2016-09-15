@@ -1,6 +1,6 @@
 	@font-face {
 		font-family: 'noon';
-		src: url('Noon.ttf');
+		src: url('Noon-Regular.ttf');
 		font-weight: normal;
 	}
     
@@ -20,13 +20,14 @@ body{
 }
 
 section{
-     width:55%;
+     width:70%;
      margin:20px auto;
-    border:55px solid #93939366;
+    border:35px solid RGBA(147, 147, 147, 0.4);
     border-radius:15px;
-    padding:50px;
+    padding:50px 30px;
     background:#fff;
     flex:1 1 auto;
+    box-shadow:0px 0px 10px #444 inset;
     
 }
 
