@@ -50,7 +50,17 @@ section{
   padding:20px;   
   line-height:1.3;
 }
-#Lists a{
+
+
+#Lists .ayat{
+        margin:50px;
+        border-top:1px dotted silver;
+        padding:10px;
+}    
+#Lists .about p{
+    font-weight:700;
+}
+#Lists .ayat a{
     display:inline-block;
     margin:5px 5px;
     text-decoration:none;
@@ -76,4 +86,12 @@ section{
     padding:10px;
     font-size:14px;
     font-family:tahoma;
+}
+
+
+
+.about{
+    font-family:tahoma;
+    font-size:14px;
+    text-align:right;
 }
