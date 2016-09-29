@@ -226,11 +226,19 @@
 	    border: 1px solid #a3a3a3;
 	    background-color: #42bcbc;
 	    color: #fff;
-	    width: 200px;
+	    width: 180px;
+		text-align: center;
+		font-family: GanjNamehSansWeb;
 	    border-radius: 10px;
 	    margin: 0px auto;
 	    box-shadow: 2px 4px 2px #ccc;
 	}
+
+		.downloadLink:hover{
+			color:#f9ff0e;
+			background-color: #369090;
+				    border: 1px solid #eee;
+		}
 	
 	#vplayer {
 	    width: 600px;
@@ -283,3 +291,20 @@
 	#fontstore-box .fontStore-social-icon a:hover{
         color:#D34E79;
     }
+
+
+
+	.backBTT{
+		position: fixed;
+		top: 0;
+		right: 20px;
+		box-shadow: 1px 1px 5px #aaa;
+		display: block;
+		background-color: #e13b27;
+		color:#fff;
+		border-radius: 0px 0px 5px 5px;
+		padding:5px 15px;
+			    text-align: center;
+	    font-family: GanjNamehSansWeb,tahoma;
+	    font-size: 15px;
+	}
