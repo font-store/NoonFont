@@ -74,7 +74,8 @@
 	}
 	
 	#soureh .ayat-continner span {
-	    font-size: 2.3vw;
+	    font-size: 4vw;
+		line-height:2;
 	}
 	
 	#intro {
@@ -191,7 +192,7 @@
 	}
 	
 	h2 {
-	    font-weight: 400px;
+	    font-weight: 400;
 	}
 	
 	.about {
@@ -251,7 +252,7 @@
         color: #fff;
         vertical-align: middle;
         	    font-family: LalezarWeb;
-                font-weight: 400px;
+                font-weight: 400;
                 font-size: 25px;
 	}
 	
